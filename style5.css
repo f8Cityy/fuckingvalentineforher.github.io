@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+    font: inter;
+}
+
+body {
+    background:  #F8BAC5
+}
+
+p {
+    text-align: center;
+    color: #DD4B75;
+    font-size: 300%;
+    margin: 164px 0 0 0;
+}
+
+.heart {
+    font-size: 128px;
+    margin: 10px 0 0 0;
+}

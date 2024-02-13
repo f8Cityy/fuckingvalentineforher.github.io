@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+    font: inter;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background:  #F8BAC5;
+  }
+  
+
+  .img1 {
+    width: 500px;
+    height: 486px;
+    margin: 70px 0 0 100px;
+  }
+
+  .me {
+    margin: 0 0 0 280px;
+    font-size: 64px;
+    color: #DD4B75;
+  }
+
+  .right {
+    float: right;
+    margin-right: 100px ;
+  }
+
+  a {
+    display: block;
+    width: 393px ;
+    text-decoration: none;
+    font-size: 40px;
+    background-color: #D9D9D9;
+    color: black;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    padding: 31px 0;
+    border-radius: 30px;
+}
